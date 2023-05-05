@@ -1,0 +1,9 @@
+ball:
+toa do:150 150
+
+radius:20
+vector:5 5
+timeCollision:90
+line:-5.0x+5.0y+-0.0 = 0
+PointCollision:600 600
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestPriorityQueue" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-02T12:16:45" hostname="LAPTOP-GFDB5TP5" time="0.104">
+  <properties/>
+  <testcase name="test_Ball()" classname="TestPriorityQueue" time="0.104"/>
+  <system-out><![CDATA[ball:
+toa do:150 150
+radius:20
+vector:5 -5
+timeCollision:30
+line:5.0x+5.0y+-1500.0 = 0
+PointCollision:300 0
+
+ball:
+toa do:150 150
+radius:20
+vector:5 5
+timeCollision:60
+line:-5.0x+5.0y+-0.0 = 0
+PointCollision:300 0
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
